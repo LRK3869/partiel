@@ -1,0 +1,58 @@
+.container3{
+    align-items : center;
+}
+
+.navbar{
+    background-color: black;
+   align-items: center;
+   
+}
+
+.navbar-brand{
+color: azure;
+height: 100%;
+
+}
+h3{
+ background-color: gray;
+ text-align: center;   
+}
+
+.h6{
+    text-align: center;
+    flex: content;
+}
+.h6-1{
+    text-align: center;
+}
+
+.h6-2{
+    text-align: right;
+}
+.card1{
+
+    justify-content: right;
+}
+
+.card-img-top{
+
+    align-items: right;
+}
+
+
+.RE4{
+
+    align-items: left;
+
+    size-adjust: ;
+}
+
+
+
+
+
+
+
+.container2{
+    align-items: center;
+}
