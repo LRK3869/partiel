@@ -12,12 +12,26 @@
 color: azure;
 height: 100%;
 
+
+
+}
+
+.T{
+    text-align: end;
+}
+
+.btn{
+    text-align: right;
 }
 h3{
+    color: white;
  background-color: gray;
  text-align: center;   
 }
 
+.MP{
+    text-align: center;
+}
 .h6{
     text-align: center;
     flex: content;
@@ -30,7 +44,7 @@ h3{
     text-align: right;
 }
 .card1{
-
+margin-right: auto;
     justify-content: right;
 }
 
@@ -49,10 +63,15 @@ h3{
 
 
 
+.MP2{
+    size: 50%;
+}
 
-
-
+.MTG{
+    text-align: right;
+}
 
 .container2{
     align-items: center;
+    text-align: center;
 }
